@@ -129,7 +129,7 @@ lnc003,O76074,0.7814
 
 If you use this tool in your research, please cite:
 
-> **Your Name et al.**  
+> **XXX et. al.**  
 > *A Deep Learning Framework for lncRNA–Protein Interaction Prediction Using Transformer-Based Sequence Embeddings* (2025)
 
 ---
