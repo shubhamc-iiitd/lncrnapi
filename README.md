@@ -1,4 +1,4 @@
-# 🧬 lncrna-PI - LncRNA–Protein Interaction Prediction
+# 🧬 lncrnaPI - LncRNA–Protein Interaction Prediction
 
 lncrnaPI is a command-line tool for predicting **lncRNA–Protein interactions** using **pre-trained language models (DNABERT-2 and ESM-2)** for sequence embedding and a **CatBoost classifier** for interaction probability estimation.
 
