@@ -37,7 +37,7 @@ pip install torch transformers catboost joblib tqdm numpy pandas
 Run the script directly from the command line:
 
 ```bash
-python predict_interaction.py     --lncrna_fasta /path/to/lncrnas.fasta     --protein_fasta /path/to/proteins.fasta     --model_path /path/to/saved_model.joblib     --output_file /path/to/results.csv
+python lncrnapi_cli.py  --lncrna_fasta /path/to/lncrnas.fasta   --protein_fasta /path/to/proteins.fasta   --model_path /path/to/saved_model.joblib   --output_file /path/to/results.csv
 ```
 
 ### **Arguments**
