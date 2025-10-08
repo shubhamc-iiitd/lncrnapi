@@ -7,7 +7,7 @@ lncrnaPI is a command-line tool for predicting **lncRNA–Protein interactions**
 ## 🚀 Overview
 
 This standalone script enables large-scale prediction of interactions between **lncRNA** and **protein sequences**.  
-It leverages state-of-the-art transformer models to extract biologically meaningful embeddings and a pre-trained **CatBoost** model to compute interaction probabilities.
+It leverages state-of-the-art transformer models to extract biologically meaningful embeddings and a **CatBoost** model to compute lncRNA-Protein interaction probabilities.
 
 ---
 
