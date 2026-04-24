@@ -104,6 +104,7 @@ If you use this tool in your research, please cite:
 
 > **Shubham et al.**  
 > *Prediction of lncRNA-protein interacting pairs using LLM embeddings based on evolutionary information* (2025)
+> [https://doi.org/10.1101/2025.11.10.687101](https://doi.org/10.1101/2025.11.10.687101)
 
 ---
 
