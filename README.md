@@ -102,8 +102,8 @@ The script automatically detects and uses available hardware:
 
 If you use this tool in your research, please cite:
 
-> **Your Name et al.**  
-> *A Deep Learning Framework for lncRNA–Protein Interaction Prediction Using Transformer-Based Sequence Embeddings* (2025)
+> **Shubham et al.**  
+> *Prediction of lncRNA-protein interacting pairs using LLM embeddings based on evolutionary information* (2025)
 
 ---
 
